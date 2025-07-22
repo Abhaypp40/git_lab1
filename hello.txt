@@ -1,1 +1,2 @@
-hello github
+hello GitHub
+second line is added
